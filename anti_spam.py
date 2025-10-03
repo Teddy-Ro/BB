@@ -11,8 +11,8 @@ logger = logging.getLogger(__name__)
 
 BOT_TOKEN = '8201264809:AAEc4BnUcY2NjyiwQdZP11zrhFHshJWTDno'
 OWNER_IDS = [734572580, 1295431856]
-BLOCKED_USERS_IDS = [123456789, 987654321]
-BLOCKED_USERS_USERNAMES = []
+BLOCKED_USERS_IDS = []
+BLOCKED_USERS_USERNAMES = ['mklstar', 'hrenmorzhoviy']
 
 group_settings = {}
 
